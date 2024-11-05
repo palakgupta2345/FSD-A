@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#top{
+    background-color: aqua;
+    color: rgb(126, 23, 126);
+    border: 8px solid black;
+}

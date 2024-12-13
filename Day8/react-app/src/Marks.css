@@ -1,0 +1,14 @@
+#mar {
+    background-color: rgb(154, 247, 247);
+    color: blueviolet;
+    border: 5px solid green;
+}
+h1{
+    background-color: rgb(191, 243, 138);
+    font-size: 30px;
+}
+h2{
+    background-color: aquamarine;
+    color: black;
+    font-size: 15px;
+}
